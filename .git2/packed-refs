@@ -1,0 +1,26 @@
+# pack-refs with: peeled fully-peeled sorted 
+9d638fd498e900134079de6b65e9e793cb325234 refs/remotes/origin/StaticAnalysis_tests
+209b2836077e7f0f05ebaf042f792ba37884dedd refs/remotes/origin/TP1
+9c053f9bfe75fecd54ffdc9218ba9f7bd534d018 refs/remotes/origin/TP1-Correction
+55ed16420a22a3a47d27ded23c5f660ef53dd90d refs/remotes/origin/TP2
+c7b9ccec2ee400a968da0d037b3b2b90293f2e82 refs/remotes/origin/TP3
+9d626f369d09c8efcc5ffc10fec5599052d6f5e0 refs/remotes/origin/diop2408-Lab2
+dc3acc5bb2a856ce0a77f6f142f43d2c37af607c refs/remotes/origin/diop2408-Lab2-2
+93b0f37c171c6f0929b402b2891301b16bb53a73 refs/remotes/origin/diop2408-Lab2-3
+9d626f369d09c8efcc5ffc10fec5599052d6f5e0 refs/remotes/origin/diop2408-Lab2-4
+53ff83504c709144a9d1e4a6869488c0b6ce89a5 refs/remotes/origin/diop2408-Lab2-5
+87db49bc4f55f2508e5505026f197796230cdcec refs/remotes/origin/diop2408_Labo5
+5d52d5e3f6a0e06430c7b863b7753f858ebde073 refs/remotes/origin/diop2408_Labo6
+f03de9d5848267bed710aeb0e3442720601902e0 refs/remotes/origin/diop2408_Labo7
+7396e84c561a906d0f2d693a21bd7231c5dd27a8 refs/remotes/origin/master
+7ac30c7ecb9420340127462461ec07fda781ca21 refs/remotes/origin/rica2610-Lab2
+11519708b1d8f1b9417f6c05cc9724eeda2f9744 refs/remotes/origin/rica2610-Lab2-2
+d9a9948e639ece74a01d13fd0a06074449dd468d refs/remotes/origin/rica2610-Lab2-3
+a71e7d28a84adeaadad2fb9319c6f9db80c3e54d refs/remotes/origin/rica2610-Lab2-4
+f920296806732d0fce6f78f24f0053464ca95df1 refs/remotes/origin/rica2610-Lab2-5
+e6c5b4a870910b7cf929a959cf672ab6470b0e47 refs/remotes/origin/rica2610_Labo5
+7a723ab7919def9ae0181dbdbf8019b8ce442da1 refs/remotes/origin/rica2610_Labo6
+d17e16864665463b25e6480f831504c2d036f7ca refs/remotes/origin/rica2610_Labo7
+209b2836077e7f0f05ebaf042f792ba37884dedd refs/tags/TP1-tag
+55ed16420a22a3a47d27ded23c5f660ef53dd90d refs/tags/TP2-tag
+c7b9ccec2ee400a968da0d037b3b2b90293f2e82 refs/tags/TP3-tag
